@@ -1,6 +1,7 @@
 # idc/idapython
 
 ## Rebuild Vxworks Symbol Table
+python3
 - noe771.idc/ noe771_2.py\
 Author: Ruben\
 使用条件：**固件加载地址**、**符号表起始地址**、**结束地址**
