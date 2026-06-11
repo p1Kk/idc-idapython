@@ -84,3 +84,4 @@ def rename_callers_based_on_arg(log_funcname, arg_index):
 log_funcname = "smart_tty_print"
 arg_index = 6                           # start from index 0
 rename_callers_based_on_arg(log_funcname, arg_index)
+print("[+]END")
